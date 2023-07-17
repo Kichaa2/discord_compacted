@@ -1,0 +1,59 @@
+/* zmiana rozmiaru emoji*/
+.emoji {
+	height: 42px !important;
+	width: 42px !important;
+}
+/* Stickers same size as emojis */
+.assetWrapper-3GNt0z {
+    max-width: 42px;
+    max-height: 42px;
+}
+/*szerokość listy kanałów serwera*/
+.sidebar-1tnWFu {
+    width: 230px;
+}
+/*wyjustowanie przycisków na prawo
+od nazwy uzytkownika i statusu*/
+.alignStretch-Uwowzr {
+    margin-left: -12px;
+}
+/*zmniejszenie tych 3 tabelek*/
+/*w lewym dolnym rogu 1*/
+.container-1qIct8 {
+    padding: 2px;
+}
+/*zmniejszenie tych 3 tabelek*/
+/*w lewym dolnym rogu 2*/
+.panel-2ZFCRb {
+    padding: 2px;
+}
+/*zmniejszenie tych 3 tabelek*/
+/*w lewym dolnym rogu 3*/
+.container-YkUktl {
+    height: 36px;
+}
+/*ukryj przycisk od superreakcji*/
+/*przy postach*/
+div[aria-label="Dodaj superreakcję"] { display: none; }
+/*szerokość listy użytkowników serwera 1*/
+.membersWrap-3NUR2t {
+    min-width: 200px;
+}
+/*szerokość listy użytkowników serwera 2*/
+.members-3WRCEx {
+    margin-right: -16px;
+    margin-top: -16px;
+    width: 260px;
+    /*height: 100%;*/
+}
+/*zmiany do marginesów okienka
+wprowadzania tekstu*/
+.form-3gdLxP {
+    padding-left: 6px;
+    padding-right: 18px;
+    margin-top: -26px;
+}
+/*zmniejszenie listy serwerów*/
+.wrapper-1_HaEi{
+    width: 37px;
+}
