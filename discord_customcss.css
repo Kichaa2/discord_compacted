@@ -57,3 +57,10 @@ wprowadzania tekstu*/
 .wrapper-1_HaEi{
     width: 37px;
 }
+/*poprawa widocznośći informacji
+o przeglądaniu starszych wiadomości*/
+.jumpToPresentBar-1cEnH0.barBase-3xxDXu{
+    margin-bottom: 16px;
+    padding-left: 6px;
+    padding-right: 18px;
+}
